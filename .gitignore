@@ -1,6 +1,7 @@
 .streamlit/secrets.toml
-sensor_readings.db
+*.db
 __pycache__/
 *.pyc
 .venv/
 venv/
+old_versions/
