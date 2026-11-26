@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+sensor_readings.db
+__pycache__/
+*.pyc
+.venv/
+venv/
